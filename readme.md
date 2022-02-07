@@ -53,10 +53,10 @@ python plot.py
 
 ## What am I looking at?
 
--The Y is DPS.
--The X is WipeFest Scores.
--Each pull is a dot.
--Each player gets a rectangle over 1 standard deviation from their mean for both DPS and WF.  This is roughly their expected performance.
+*The Y is DPS.
+*The X is WipeFest Scores.
+*Each pull is a dot.
+*Each player gets a rectangle over 1 standard deviation from their mean for both DPS and WF.  This is roughly their expected performance.
 
 ## How can this help me improve?
 
@@ -64,9 +64,9 @@ By itself it cannot, but it can help you see in a visual way where you might be 
 
 ## TLDR - How can I read it?
 
-High on the Y axis is better than low.
-High on the X axis is better than low.
-Small boxes are more consistent.
+*High on the Y axis is better than low.
+*High on the X axis is better than low.
+*Small boxes are more consistent.
 
 ## Support
 
