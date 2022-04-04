@@ -16,8 +16,8 @@ from matplotlib.patches import Rectangle
 plt.rc('figure', max_open_warning = 0)
 
 #client (application) credentials
-client_id = '958670ec-a4c1-4884-8361-2228aa1b1eac'
-client_secret = 'JnKlhcNWcyHH87bZtWvrMYvmCE0ZnRsHXOwDMMcl'
+client_id = '
+client_secret = ''
 
 
 def mean(data):
